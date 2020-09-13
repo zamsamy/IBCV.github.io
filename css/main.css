@@ -2258,7 +2258,7 @@ header .logo a {
 	color: white;
 }
 #contact .section-intro h5 {
-	color: #2f109e;
+	color: #ffffff;
 }
 #contact .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2499,7 +2499,7 @@ footer a, footer a:visited {
 	color: #FFFFFF;
 }
 footer a:hover, footer a:focus {
-	color: #0084ff;
+	color: #f2f4f7;
 }
 footer .row {
 	max-width: 900px;
